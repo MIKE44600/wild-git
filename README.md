@@ -1,2 +1,2 @@
 # wild-git
-essaie envoi
+ "At Wild Code School, we code without shoes."
